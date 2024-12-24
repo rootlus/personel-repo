@@ -1,0 +1,408 @@
+<!-- (c) Layout created by amber / bopper (https://layouts.spacehey.com/layout?id=32210) -->
+
+<style>
+
+a {
+cursor: url(http://www.rw-designer.com/cursor-view/84442.png), auto !important;
+}
+
+a:hover {
+
+color:yellow
+
+}
+
+.logo {
+
+content:url("https://i.ibb.co/F0bGB7y/Untitled1071-20240201151349.png");
+
+}
+
+@font-face {
+font-family: determination;
+src:url(https://dl.dropbox.com/s/43esi8tpxce4q3f/DeterminationMonoWebRegular-Z5oq.ttf?dl=0;)
+}
+
+</style>
+
+
+
+<style>
+    .container{
+        
+    width: 1000px !important;
+        
+    }
+</style>
+
+
+
+<style>
+
+main {
+overflow-y: auto; 
+overflow-x: none;
+height: 100vh;
+
+}
+
+</style>
+
+
+
+<style>
+
+}
+main {
+    background: black;
+    color: white;
+    padding: 6px 0px;
+    font-size: 80%;
+}
+main {
+    display: block;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+main {
+    display: block;
+}
+body {
+    background-color: #e3e3e3;
+    background-color: var(--gray);
+    font-family: verdana, arial, sans-serif, helvetica;
+}
+
+:root {
+    --light-gray: #f2f0f0;
+    --gray: #e3e3e3;
+    --dark-gray: #919191;
+    --darker-gray: #545454;
+    --logo-blue: #000000;
+    --darker-blue: #ffffff;
+    --lighter-blue: black;
+    --even-lighter-blue: transparent;
+    --lightest-blue: transparent;
+    --red: #ffffff;
+    --dark-orange: #ffffff;
+    --light-orange: transparent;
+    --even-lighter-orange: transparent;
+    --strange-yellow: #dbae2e;
+    --green: #34D399;
+    --light-green: #E6F8DD;
+    --medium-green: #A0C99C;
+    --dark-green: #059669;
+    accent-color: #1D4ED8;
+    accent-color: var(--logo-blue);
+}
+
+</style>
+
+
+<style>
+    main{
+     
+    background-color: black !important;
+    color: white
+
+    }
+
+
+</style>
+
+
+<style>
+    .profile-pic img{
+
+object-fit: cover;
+border: 2px solid white !important;
+        
+    }
+}
+</style>
+
+<style>
+    .contact{
+        
+border: 2px solid white !important;   
+border-top: 0px solid !important
+        
+    }
+</style>
+
+
+<style>
+    .mood{
+        
+border: 2px solid white !important;   
+border-bottom: 0px solid !important;
+        
+    }
+</style>
+
+<style>
+    .table-section{
+        
+border: 2px solid white !important;   
+        
+    }
+
+.url-info{
+
+border: 2px solid white !important;   
+
+}
+
+.general-about{
+
+border: 7px solid transparent
+
+}
+
+.friends{
+
+border: 2px solid white !important;    
+border-bottom: 0px solid !important
+
+}
+
+.blurbs{
+
+border: 2px solid white !important;    
+
+}
+
+.links{
+
+border: 2px solid white !important;
+border-left: 0px solid !important;
+border-right: 0px solid !important;
+
+
+}
+
+
+
+</style>
+
+
+<style>
+    .container{
+        
+    border: 2px solid white;
+    border-bottom: 0px solid !important
+        
+    }
+</style>
+
+
+<style>
+    footer{
+        
+background-color: black
+
+    }
+</style>
+
+
+<style>
+    body{
+    cursor: url(http://www.rw-designer.com/cursor-view/84442.png), auto !important;
+    background-color: purple !important;
+    background-image: url('https://images2.alphacoders.com/737/thumb-1920-737526.png') !important;
+    background-attachment: fixed !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+        
+    }
+</style>
+
+<style>
+body{
+
+font-family: 'determination'
+
+}
+</style>
+
+<style>
+
+footer{
+
+border: 2px solid white !important;
+border-left: 0px solid !important;
+border-right: 0px solid !important;
+
+</style>
+
+<style>
+
+.friends-grid img{
+
+border: 2px solid white !important;
+overflow: hidden;
+transition: transform 0.2s ease;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+
+.friends-grid img:hover{
+
+border: 2px solid yellow!important;
+animation: spin 2s linear infinite;
+}
+</style>
+
+
+<style>
+h1{
+    padding-left: 20px !important;
+    font-family: "determination";
+    font-size:30px !important;
+    margin-top: -10px!important;
+    color: white!important;
+}
+
+</style>
+
+
+<style>
+.online{
+font-size:0 !important;
+}
+.online:before{
+color:yellow;
+content: "*";
+font-size:.9rem;
+}
+.online:after{
+color:yellow;
+content: "ONLINE";
+font-size:1rem;
+animation: blinker 0s linear infinite;
+}
+.online{
+animation: blinker 0s linear infinite;
+}
+@keyframes blinker {
+50% {
+opacity: 0;
+}
+}
+</style>
+
+
+<style>
+.count{
+
+color: yellow
+
+}
+
+.profile .friends .person p {
+
+color: white !important;
+
+</style>
+
+<style>
+
+.details-table td:first-child {
+
+color: white !important;
+
+</style>
+
+<style>
+    .profile-info{
+        
+border: 2px solid white !important;   
+        
+    }
+</style>
+
+<style>
+.contact .inner a img {
+    font-size: 0;
+}
+.contact .inner a img:before {
+    font-size: 1em;
+    display: block
+}
+.contact .inner .f-row:nth-child(1) .f-col:nth-child(1) a:before {
+/* Add to Friends */
+content: "♥"
+}
+.contact .inner .f-row:nth-child(1) .f-col:nth-child(2) a:before {
+/* Add to Favorites */
+content: "♥"
+}
+.contact .inner .f-row:nth-child(2) .f-col:nth-child(1) a:before {
+/* Send Message */
+content: "♥"
+}
+.contact .inner .f-row:nth-child(2) .f-col:nth-child(2) a:before {
+/* Forward to Friend */
+content: "♥"
+}
+.contact .inner .f-row:nth-child(3) .f-col:nth-child(1) a:before {
+/* Instant Message */
+content: "♥"
+}
+.contact .inner .f-row:nth-child(3) .f-col:nth-child(2) a:before {
+/* Block User */
+content: "♥"
+}
+.contact .inner .f-row:nth-child(4) .f-col:nth-child(1) a:before {
+/* Add to Group */
+content: "♥"
+}
+.contact .inner .f-row:nth-child(4) .f-col:nth-child(2) a:before {
+/* Report Profile */
+content: "♥"
+}
+
+
+</style>
+
+<style>
+.profile .blurbs .section h4{
+
+    font-family: "determination";
+    font-size:16px !important;
+    margin-top: 10px!important;
+    color: yellow!important;
+
+</style>
+
+<style>
+             ::-webkit-scrollbar {
+    width: 3px;
+    height: 10px;
+    }
+
+    ::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255);
+    }
+
+
+    ::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0);
+    }
+
+ 
+
+
+</style>
