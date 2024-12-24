@@ -63,4 +63,4 @@
 <br>
 
 <h3 align="center">7. Uygulamalar:</h3>
-<h4>Bunun için ayrı bir depo açmıştım <a href="https://github.com/Worux/privacy-based-apps">BURAYA TIKLAYARAK</a> bakabilirsiniz.</h4>
+<h4>Bunun için ayrı bir depo açmıştım <a href="../Privacy-Based-Apps">BURAYA TIKLAYARAK</a> bakabilirsiniz.</h4>
