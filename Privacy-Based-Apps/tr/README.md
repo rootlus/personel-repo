@@ -85,7 +85,7 @@
 
 <h2 class="#search-services">Arama Motoları:</h2>
   <h3><ul>
-    <li>Kiga (Ücretsiz-Abonelik - Aylık 300 Aratma)</li>
+    <li>Kiga (Ücretsiz-Abonelik - Aylık 100 Aratma)</li>
     <li>SearX (Ücretsiz)</li>
     <li>StartPage (Ücretsiz)</li>
     <li>DuckDuckGo (Ücretsiz)</li>
